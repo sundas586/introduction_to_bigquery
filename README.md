@@ -19,6 +19,13 @@ Serverless, highly scalable, cost-effective data warehouse designed for business
 
 [How to Avoid Five Common Mistakes in Google BigQuery / SQL](https://towardsdatascience.com/how-to-avoid-five-common-mistakes-in-google-bigquery-sql-6fafab396d88)
 
+## Key difference between DataBricks & BigQuery :
+
+- DataBricks manages big data easily (distributed system) with  Apache spark, more costly & fast
+- BigQuery manages huge amounts of data for the data warehouse.
+
+  [difference between DataBricks & BigQuery](https://medium.com/@sumitmudliar/databricks-vs-google-bigquery-42c903065bd4)
+
 
 
 
