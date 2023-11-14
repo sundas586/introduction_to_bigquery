@@ -1,3 +1,6 @@
+Google BigQuery is popular for many reasons. It is incredibly fast, easy to work with, provides the full GCP suite, takes care of your data, and ensures to catch mistakes early on. On top of that, you can use standard SQL and some very nice built-in functions.
+Serverless, highly scalable, cost-effective data warehouse designed for business agility. Modernize your smart analytics warehouse with BigQuery. 
+
 ## Dataset Metadata
 
 ![image](https://github.com/sundas586/introduction_to_bigquery/assets/33677647/19b9c905-8ebe-4193-9cb5-42922f7a6a3e)
@@ -13,6 +16,8 @@
 ## Table Metadata
 
 ![image](https://github.com/sundas586/introduction_to_bigquery/assets/33677647/559f565a-95a6-4b8c-b404-a29411b43954)
+
+[How to Avoid Five Common Mistakes in Google BigQuery / SQL](https://towardsdatascience.com/how-to-avoid-five-common-mistakes-in-google-bigquery-sql-6fafab396d88)
 
 
 
