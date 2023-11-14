@@ -7,11 +7,12 @@ FROM bigquery-public-data.stackoverflow.INFORMATION_SCHEMA.TABLES
 
 ## number of rows and table data size
 
-SELECT *
-FROM bigquery-public-data.stackoverflow.__TABLES__
+![image](https://github.com/sundas586/introduction_to_bigquery/assets/33677647/8d7aa92b-c8a3-4877-bea8-da54798ad350)
 
 - I modified the query as follows to make changes so timestamp was in datetime format and and size_bytes were GB.
-![image](https://github.com/sundas586/introduction_to_bigquery/assets/33677647/0d5c8c08-0108-4fe2-b992-dd62b574efa9)
+
+![image](https://github.com/sundas586/introduction_to_bigquery/assets/33677647/513e1b2f-7e10-46fd-98b1-bb157d52e071)
+
 
 
 
