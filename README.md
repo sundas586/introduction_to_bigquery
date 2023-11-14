@@ -1,9 +1,6 @@
 ## Dataset Metadata
 
-SELECT *
-FROM bigquery-public-data.stackoverflow.INFORMATION_SCHEMA.TABLES
-
-![image](https://github.com/sundas586/bigquery_intro/assets/33677647/ebc144ee-ddd5-43fd-ba87-361451c26049)
+![image](https://github.com/sundas586/introduction_to_bigquery/assets/33677647/19b9c905-8ebe-4193-9cb5-42922f7a6a3e)
 
 ## number of rows and table data size
 
