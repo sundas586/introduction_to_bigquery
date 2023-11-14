@@ -1,5 +1,9 @@
+## Google BigQuery
+
 Google BigQuery is popular for many reasons. It is incredibly fast, easy to work with, provides the full GCP suite, takes care of your data, and ensures to catch mistakes early on. On top of that, you can use standard SQL and some very nice built-in functions.
 Serverless, highly scalable, cost-effective data warehouse designed for business agility. Modernize your smart analytics warehouse with BigQuery. 
+
+[For more details](https://cloud.google.com/bigquery/docs/information-schema-tables)
 
 ## Dataset Metadata
 
